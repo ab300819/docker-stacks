@@ -1,3 +1,7 @@
-# CLAUDE.md
+<!-- 运行 /agent-memory 更新 AGENTS.md -->
 
-本项目的约定统一维护在 [AGENTS.md](./AGENTS.md)，请阅读并遵循其中全部内容。
+@AGENTS.md
+
+## Claude Code 补充
+
+<!-- Claude Code 专属信息，/agent-memory 不会覆盖此区域 -->
